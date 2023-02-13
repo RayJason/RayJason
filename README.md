@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 I'm RayJason.  
 🚀 Welcome to my Github.
-- 🔭 I'm a frontend developer
-- 🌱 I’m currently using Vue.js
-- 📫 You can reach me: i@rayjason.cn
+- 🔭 A frontend developer
+- 🌱 Vue.js
+- 📫 i@rayjason.cn
 
