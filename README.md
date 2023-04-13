@@ -8,3 +8,5 @@
 - 🌱 Vue.js
 - 📫 i@rayjason.cn
 
+Here is part of the activity chart: 
+![contribution map](./profile-3d-contrib/profile-night-view.svg)
